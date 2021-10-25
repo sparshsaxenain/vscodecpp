@@ -1,0 +1,1 @@
+{"name":"Local: bitewiseand","url":"d:\\visualstudiocode\\vscodecpp\\vscodecpp2\\bitewiseand.cpp","tests":[{"id":1633869832019,"input":"2\n3\n3 4 1\n2\n4 2","output":"5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\visualstudiocode\\vscodecpp\\vscodecpp2\\bitewiseand.cpp","group":"local","local":true}

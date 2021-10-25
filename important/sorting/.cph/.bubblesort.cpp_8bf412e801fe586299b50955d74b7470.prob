@@ -1,0 +1,1 @@
+{"name":"Local: bubblesort","url":"d:\\visualstudiocode\\vscodecpp\\important\\sorting\\bubblesort.cpp","tests":[{"id":1633712589750,"input":"5\n4 2 3 5 1","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\visualstudiocode\\vscodecpp\\important\\sorting\\bubblesort.cpp","group":"local","local":true}

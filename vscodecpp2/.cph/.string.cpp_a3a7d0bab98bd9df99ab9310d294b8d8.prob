@@ -1,0 +1,1 @@
+{"name":"Local: string","url":"d:\\visualstudiocode\\vscodecpp\\vscodecpp2\\string.cpp","tests":[{"id":1633802101517,"input":"2\nHacker\nRank","output":"Hce akr\nRn ak"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\visualstudiocode\\vscodecpp\\vscodecpp2\\string.cpp","group":"local","local":true}
